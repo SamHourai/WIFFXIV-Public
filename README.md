@@ -38,11 +38,11 @@ Taking in-game panoramas is a very time-consuming task, which is why I'm current
 3. Do not forget to note the place where they were taken!
 4. Then use the "Hugin" or another software http://hugin.sourceforge.net/ to assemble them and create a panorama.
     - 4.1 Tutorial here: https://www.youtube.com/watch?v=DMYlm3D3N
-
-5. Send your photos by completing this form:
+5. Compress your images with https://imagecompressor.com/fr/
+6. Send your photos by completing this form:
     - 5.1 https://forms.gle/Sy2fPqD7sTZXFc458
 
-6. Thank you, it is thanks to you that WIFFXIV becomes better!
+7. Thank you, it is thanks to you that WIFFXIV becomes better!
 
 # 🛠 How can I send a bug report or make a suggestion ?
 You can simply create a ticket in the "issues" part of this github.
