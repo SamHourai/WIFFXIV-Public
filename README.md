@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N06PBM7)
 <p align="center">
   <a href="https://wiffxiv.herokuapp.com/">
     <img src="https://user-images.githubusercontent.com/61802710/139016526-f60e8fcb-4785-4d9b-b07f-b4079ea400ba.png" width="250"/>
@@ -53,3 +52,4 @@ Templates are available to create your ticket.
 I am from Belgium, I am a student in Networks and Cybersecurity, I am also passionate about Final Fantasy XIV and when I am not studying I spend my free time on the game.
 And I developped alone WIFFXIV.
 If you wish, you can help me keep this project ad-free and update it <a href="https://ko-fi.com/samhourai">by buying me a coffee here ☕</a> !
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N06PBM7)
