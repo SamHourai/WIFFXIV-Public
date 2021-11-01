@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N06PBM7)
 <p align="center">
   <a href="https://wiffxiv.herokuapp.com/">
     <img src="https://user-images.githubusercontent.com/61802710/139016526-f60e8fcb-4785-4d9b-b07f-b4079ea400ba.png" width="250"/>
